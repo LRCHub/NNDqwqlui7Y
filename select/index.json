@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "to the CIDER ROAD",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-02-06T13:01:23.009908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To the Cider Road",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_To_the_Cider_Road_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "to the CIDER ROAD",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_to_the_CIDER_ROAD_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
